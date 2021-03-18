@@ -1,11 +1,11 @@
-# Theme created for the Oh My ZSH framework
+# Theme :rocket: created for the Oh My ZSH framework
 
-### Rocket
+[![licence mit](https://img.shields.io/github/license/alexandresl/rocket-zsh-theme)](https://github.com/Alexandresl/rocket-zsh-theme/blob/main/LICENSE)
 
-[![licence mit](https://img.shields.io/github/license/alexandresl/rocket-zsh-theme)](https://github.com/lexandresl/rocket-zsh-theme/blob/main/LICENSE.md)
+## Rocket
 
 ![Screnshot](img/screenshot.jpg)
 
 ### License
 
-[MIT License](https://github.com/lexandresl/rocket-zsh-theme/blob/main/LICENSE.md)
+[MIT License](https://github.com/Alexandresl/rocket-zsh-theme/blob/main/LICENSE)
