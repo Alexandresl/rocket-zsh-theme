@@ -1,5 +1,5 @@
 # Theme created for the Oh My ZSH framework
 
-## Rocket
+### Rocket
 
 ![Screnshot](img/print.JPG)
