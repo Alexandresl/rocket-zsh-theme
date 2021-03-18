@@ -2,4 +2,4 @@
 
 ### Rocket
 
-![Screnshot](img/print.JPG)
+![Screnshot](img/screenshot.jpg)
