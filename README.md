@@ -4,7 +4,7 @@
 
 ## Rocket
 
-![Screnshot](img/screenshot.jpg)
+![Screnshot](img/screen.gif)
 
 ## Installation
 
